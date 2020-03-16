@@ -14,8 +14,7 @@ Conclusion
 Future exploration
 
 ## Project Goal
-The above graphic shows hand pumps, cattle troughs, and other pump varieties (red) vs. other communal standpipes types around Tanzania.
-This project focus on whether a given article/post on Mediun be popular or not base on certain characteristics.
+The goal for this project is to determine whether a giving post on Medium will be popular or not.
 
 ## Data Collection
 
@@ -72,11 +71,13 @@ The above graphic shows feature importance in XGboost in asccending. The top 3 i
 1. Followers may impact the accuracy of popularity. 
 
 (1) Will users with more followers tend to have more claps regardless of a given post is good or bad? 
+
 (2) 4 claps out of 10 followers vs. 4 claps out of 1000 followers might represent signifacantly different.
 
 2. Adding tags into consideration may improve model
 
 (1) Will posts with certain tags easier to be popular? (AI intelligence, COVID 19)
+
 (2) How can we differ a good post with niche topic and a okay post with hot topic? (Art articles vs. Data Science articles )
 
 Source: https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content
