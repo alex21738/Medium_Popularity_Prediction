@@ -6,8 +6,7 @@ Dataset Introduction
 
 Key EDA
 
-KNN, Random Forest and XGboost
-Final Model
+KNN, Random Forest and XGboost(Final Model)
 
 Conclusion
 
