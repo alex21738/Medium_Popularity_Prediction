@@ -20,15 +20,15 @@ This project focus on whether a given article/post on Mediun be popular or not b
 ## Data Collection
 
 The data was collected from Kaggle, originally web scrapped on Medium by Aiswarya. Important features among 50 initial independent variables include:
-  -  'collectionId'
-  -  'codeBlockCount'
-  -  'imageCount'
-  -  'readingTime'
-  -  'recommends'
-  -  'totalClapCount'
-  -  'wordCount'
-  -  'usersFollowedByCount' 
-  -  'usersFollowedCount'
+  -  collectionId
+  -  codeBlockCount
+  -  imageCount
+  -  readingTime
+  -  recommends
+  -  totalClapCount
+  -  wordCount
+  -  usersFollowedByCount
+  -  usersFollowedCount
 ## EDA
 
 
