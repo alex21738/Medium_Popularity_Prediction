@@ -1,6 +1,6 @@
-# medium popularity prediction
+# Medium Popularity Prediction
 
-## outline
+## Outline
 
 Dataset Introduction
 
@@ -13,7 +13,7 @@ Conclusion
 
 Future exploration
 
-## project Goal
+## Project Goal
 The above graphic shows hand pumps, cattle troughs, and other pump varieties (red) vs. other communal standpipes types around Tanzania.
 This project focus on whether a given article/post on Mediun be popular or not base on certain characteristics.
 
@@ -46,7 +46,7 @@ The above graphic shows follower counts vs. populatity.
 
 Many columns were dropped because of contents unrelated to popularity or contain strings or date time. There is no missing values in this data. After random sampling 100,000 observations and removing outliers, this project resulting in a total of 12 features and 99,955 samples.
 
-## Feature engineering
+## Feature Engineering
 
 -  Feature Selection
 -  Train Test Split
@@ -67,7 +67,7 @@ The above graphic shows feature importance in XGboost in asccending. The top 3 i
 2. Follwers
 3. Word Count
 
-## Future exploration
+## Future Exploration
 
 1. Followers may impact the accuracy of popularity. 
 
