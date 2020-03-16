@@ -67,7 +67,7 @@ The above graphic shows feature importance in XGboost in asccending. The top 3 i
 
 ## Future Exploration
 
-1. Followers may impact the accuracy of popularity. 
+1. Followers may impact the accuracy of predicting popularity. 
 
 (1) Will users with more followers tend to have more claps regardless of a given post is good or bad? 
 
@@ -80,4 +80,5 @@ The above graphic shows feature importance in XGboost in asccending. The top 3 i
 (2) How can we differ a good post with niche topic and a okay post with hot topic? (Art articles vs. Data Science articles )
 
 Source: https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content
+
 Powerpoint: https://docs.google.com/presentation/d/1JtwmXgXtrQznERbGsCI3jPkuXu34vS-_bLI4W7dhl_I/edit?usp=sharing
