@@ -30,6 +30,6 @@ The data was collected from Kaggle, originally web scrapped on Medium by Aiswary
   -  usersFollowedByCount
   -  usersFollowedCount
 ## EDA
-
+![recommend.png](recommend.png)
 
 https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content
