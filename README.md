@@ -38,7 +38,7 @@ The above graphic shows recommend counts vs. populatity.
 
 The above graphic shows average reading time vs. populatity.
 
-![follower.png](follower.png)
+![followers.png](followers.png)
 
 The above graphic shows follower counts vs. populatity.
 
