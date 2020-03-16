@@ -10,7 +10,7 @@ KNN, Random Forest and XGboost(Final Model)
 
 Conclusion
 
-Future exploration
+Future Exploration
 
 ## Project Goal
 The goal for this project is to determine whether a giving post on Medium will be popular or not.
