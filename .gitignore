@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 # ignore vehicles.csv
-Mediums.csv
+Medium.csv
