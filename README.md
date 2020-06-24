@@ -59,7 +59,7 @@ Models used were KNN, Random Rorest, and XGboost. XGboost performed the best wit
 
 ![xgboost.png](xgboost.png)
 
-The above graphic shows feature importance in XGboost in asccending. The top 3 important features are
+The above graphic shows feature importance in XGboost in asccending. The top 3 important features are 
 
 1. Reading Time
 2. Follwers
