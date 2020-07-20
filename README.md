@@ -77,7 +77,7 @@ The above graphic shows feature importance in XGboost in asccending. The top 3 i
 
 (1) Will posts with certain tags easier to be popular? (AI intelligence, COVID 19)
 
-(2) How can we differ a good post with niche topic and a okay post with hot topic? (Art articles vs. Data Science articles )
+(2) How can we differ a good post with niche topic and an okay post with hot topic? (Art articles vs. Data Science articles )
 
 Source: https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content
 
