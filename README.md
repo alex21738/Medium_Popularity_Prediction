@@ -53,7 +53,7 @@ Many columns were dropped because of contents unrelated to popularity or contain
 
 ## Model & Results
 
-Models used were KNN, Random Rorest, and XGboost. XGboost performed the best with F1 score: 0.87 and Accuracy: 0.95.
+Models used were KNN, Random Rorest, and XGboost. XGboost performed with best F1 score: 0.87 and best Accuracy: 0.95.
 
 ## Model Conclusion
 
