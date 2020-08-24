@@ -13,7 +13,7 @@ Conclusion
 Future Exploration
 
 ## Project Goal
-The goal for this project is to determine whether a giving post on Medium will be popular or not.
+The goal of this project is to determine whether a giving post on Medium will be popular or not.
 
 ## Data Collection
 
