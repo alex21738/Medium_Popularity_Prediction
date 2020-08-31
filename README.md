@@ -61,9 +61,9 @@ Models used were KNN, Random Rorest, and XGboost. XGboost performed with best F1
 
 The above graphic shows feature importance in XGboost in asccending. The top 3 important features are 
 
-1. Reading Time
+1. Reading time
 2. Follwers
-3. Word Count
+3. Word count
 
 ## Future Exploration
 
